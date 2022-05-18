@@ -19,7 +19,7 @@
  
 - 👯 I’m looking to collaborate on Flask/Python Projects. 
 
-- 💬 Talk to me about Anything related to Networking Technologiies(Routing,Switching and Automation). 
+- 💬 Talk to me about Anything related to Networking Technologies(Routing,Switching and Automation). 
 </div>
 
 <div align='center'>
