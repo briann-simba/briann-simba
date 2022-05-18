@@ -29,9 +29,17 @@
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/django.svg'>
  
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/docker.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/django.svg'>
-
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/gatsby.svg'>
+ 
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/heroku.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/npm.svg'>
+ 
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/python.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/tensorflow.svg'>
+ 
 </div>
 
 
