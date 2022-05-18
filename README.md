@@ -1,10 +1,8 @@
 <h1 align='center'> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mwendwa99.mwendwa99)
-
 </p>
-<div align='center'> <h2>I am Brian Mwendwa. Thank You for taking time to visit my GitHub Profile :smile: </h2>
+<div align='center'> <h2>I am Brian Simba. Thank You for taking time to visit my GitHub Profile :smile: </h2>
 </div>
 
 <div>
@@ -13,14 +11,15 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on a Jumia Web Clone [![wakatime](https://wakatime.com/badge/user/2aba1a8d-1c0f-4cb2-8d62-adf66b362996/project/c6686af8-d4db-4d5d-a52f-2b9675799ee3.svg)](https://wakatime.com/badge/user/2aba1a8d-1c0f-4cb2-8d62-adf66b362996/project/c6686af8-d4db-4d5d-a52f-2b9675799ee3)
+- 🔭 I'm currently working on my CCNP
+ 
+ 
+- 🔭 I'm enthusiastic about Natural Language Processing and Deep Learning.
 
-- 🌱 I’m currently learning C# and the .NET framework.
+ 
+- 👯 I’m looking to collaborate on Flask/Python Projects. 
 
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles. 
-
-- 💬 Talk to me about Anything related to the MERN stack and related technologies. 
+- 💬 Talk to me about Anything related to Networking Technologiies(Routing,Switching and Automation). 
 </div>
 
 <div align='center'>
