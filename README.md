@@ -11,13 +11,15 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I'm currently working on my CCNP
+- 👯 Cisco Certified Network Associate
+ 
+- 🔭 Currently working on my CCNP
  
  
-- 🔭 I'm enthusiastic about Natural Language Processing and Deep Learning.
+- 🔭 Enthusiastic about Natural Language Processing and Deep Learning.
 
  
-- 👯 I’m looking to collaborate on Flask/Python Projects. 
+- 👯 Looking to collaborate on Flask/Python Projects. 
 
 - 💬 Talk to me about Anything related to Networking Technologies(Routing,Switching and Automation). 
 </div>
